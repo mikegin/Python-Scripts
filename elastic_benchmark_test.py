@@ -1,9 +1,3 @@
-#import sys
-
-
-#data = sys.stdin.read()
-#print data
-
 import sys
 import fileinput
 import pprint
